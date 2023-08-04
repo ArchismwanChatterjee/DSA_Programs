@@ -99,6 +99,6 @@ C auxilliary peg
 ## Documentation and Concepts
 check out
 
-[Documentation.md](https://github.com/ArchismwanChatterjee/C/blob/main/documentation.md) and [Concepts.md](https://github.com/ArchismwanChatterjee/C/blob/main/concepts.md)
+[Documentation.md](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/Documentation.md) and [Concepts.md](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/concepts.md)
 
 
