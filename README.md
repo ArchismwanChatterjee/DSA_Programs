@@ -44,7 +44,7 @@ You will need the following tools installed on your system to run these programs
 
     Example:
     ```
-     A/D1 would contain Section A Day 1 programs
+     C/D1 would contain Section C Day 1 programs
     ```
 -   Write the question using comment lines and then code 
     if possible display the result in comment lines.
