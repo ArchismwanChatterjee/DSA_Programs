@@ -82,9 +82,23 @@ int main()
 }
 
 /*
-A beginning peg / from peg
-B end peg / to peg
+A beginning peg/from peg
+B end peg/to peg
 C auxilliary peg
+
+OUTPUT:
+
+Enter the number of disks to be operated
+3
+
+ Move disk 1 from the peg A to the peg B
+ Move disk 2 from the peg A to the peg C
+ Move disk 1 from the peg B to the peg C
+ Move disk 3 from the peg A to the peg B
+ Move disk 1 from the peg C to the peg A
+ Move disk 2 from the peg C to the peg B
+ Move disk 1 from the peg A to the peg B
+
 */
 ```
 
