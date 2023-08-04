@@ -19,7 +19,7 @@ All programs must follow the syllabus  given below (as of 2023).
 
 To get a copy of these programs up and running on your local machine, simply clone this repository:
 ```bash
-git clone https://github.com/ArchismwanChatterjee/C
+git clone https://github.com/ArchismwanChatterjee/DSA_Programs
 ```
 [if you are scared of CLI don't worry we got you covered](https://www.youtube.com/watch?v=PvUexC0-D2s)
 ## Prerequisites
