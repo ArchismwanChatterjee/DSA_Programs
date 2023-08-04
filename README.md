@@ -101,6 +101,7 @@ Enter the number of disks to be operated
 
 */
 ```
+-   Navigate to the concepts folder to add concepts regarding data structures and algorithms 
 
 -   Use suitable comment lines.
 
@@ -111,8 +112,11 @@ Enter the number of disks to be operated
 -   Try to keep a note of the time and space complexity 
 
 ## Documentation and Concepts
-check out
 
-[Documentation](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/Documentation.md) and [Concepts](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/concepts.md)
+check out 
+
+[Documentation](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/Documentation.md) to know more about C/C++
+
+[Concepts](https://github.com/ArchismwanChatterjee/DSA_Programs/tree/main/concepts) to know about the concepts related to various data structures and algorithms
 
 
