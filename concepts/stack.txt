@@ -1,0 +1,34 @@
+Stack is a linear homogeneous data structure in which insertion and deletion occurs from a particular end only that is top end.
+
+While,
+
+In an Array insertion and deletion can occur from both the ends i.e. top and bottom ends.
+
+That's the basic difference between an Array and a Stack
+
+Stack follows LIFO Principle i.e. Last In First Out ( Suppose there are 5 elements in a stack and 5 is the last element that is inserted in the stack and therefore it is the first element to be deleted and hence Last In First Out(LIFO))
+
+The Basic Operations of Stack includes:
+
+1)Push: Insertioon
+2)Pop: Deletion
+3)Peek: Display the top most elements
+4)Display: Display all the elements
+
+Peek is not so important as we generally display all the elements present in the stack we barely want to print only the top most element of the stack
+
+We use a menu driven or switch case algo to perform stack operations as it's more efficient and better.
+
+Applications of Stacks :
+
+1)Parsing and Reversing
+2)Used in Function Call and Interrupt
+3)Recursion
+4)To evaluate Prefix and Postfix Operations
+
+Important Conditions:
+
+1) Stack Overflow: When the stack length is full and no more elements cannot be entered then it's termed as Stack Overflow .
+2) Stack Underflow: When the stack is empty i.e. there are no elements present in the stack then it's termed as Stack Underflow.
+
+We genrally initialize top as -1 and increase it eventually by 1 ( top ++ )

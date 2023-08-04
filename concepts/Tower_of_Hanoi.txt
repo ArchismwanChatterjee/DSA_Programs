@@ -1,0 +1,35 @@
+TOWER OF HANOI
+
+CONDITIONS:
+
+1) The disk are arranged in increasing order
+2) Move one disk at a time
+3) You cannotplace a larger disk on smaller disk
+
+MOVES:
+
+n disks
+2^n-1 <------ Total moves to move the disk from Beg to End
+
+UNDERSTANDING LOGIC:
+
+Tower(n,Beg,Aux,End) // Moving disk from Beg to End with the help of Aux
+Tower(n-1,Beg,End,Aux) // Moving disk from Beg to Aux with the help of End
+Beg------> End
+Tower(n-1,Aux,Beg,End)
+
+ALGORITHM STRUCTURE:
+
+if(n==1) then
+Beg ----> End
+
+else
+logic
+
+TIME COMPLEXITY:
+
+Best Case: O(1)
+
+Worst Case: O(2^N)
+
+where N is number of Disks.
