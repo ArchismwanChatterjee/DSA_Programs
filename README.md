@@ -113,6 +113,6 @@ Enter the number of disks to be operated
 ## Documentation and Concepts
 check out
 
-[Documentation.md](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/Documentation.md) and [Concepts.md](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/concepts.md)
+[Documentation](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/Documentation.md) and [Concepts](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/concepts.md)
 
 
