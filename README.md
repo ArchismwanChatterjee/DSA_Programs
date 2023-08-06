@@ -19,7 +19,7 @@ All programs must follow the syllabus  given below (as of 2023).
 
 To get a copy of these programs up and running on your local machine, simply clone this repository:
 ```bash
-git clone https://github.com/ArchismwanChatterjee/C
+git clone https://github.com/ArchismwanChatterjee/DSA_Programs
 ```
 [if you are scared of CLI don't worry we got you covered](https://www.youtube.com/watch?v=PvUexC0-D2s)
 ## Prerequisites
@@ -44,7 +44,7 @@ You will need the following tools installed on your system to run these programs
 
     Example:
     ```
-     A/D1 would contain Section A Day 1 programs
+     C/D1 would contain Section C Day 1 programs
     ```
 -   Write the question using comment lines and then code 
     if possible display the result in comment lines.
@@ -101,6 +101,7 @@ Enter the number of disks to be operated
 
 */
 ```
+-   Navigate to the concepts folder to add concepts regarding data structures and algorithms 
 
 -   Use suitable comment lines.
 
@@ -111,8 +112,11 @@ Enter the number of disks to be operated
 -   Try to keep a note of the time and space complexity 
 
 ## Documentation and Concepts
-check out
 
-[Documentation](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/Documentation.md) and [Concepts](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/concepts.md)
+check out 
+
+[Documentation](https://github.com/ArchismwanChatterjee/DSA_Programs/blob/main/Documentation.md) to know more about C/C++
+
+[Concepts](https://github.com/ArchismwanChatterjee/DSA_Programs/tree/main/concepts) to know about the concepts related to various data structures and algorithms
 
 
