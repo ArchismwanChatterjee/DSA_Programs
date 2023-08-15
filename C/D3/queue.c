@@ -93,3 +93,48 @@ int main()
     return 0;
 }
 
+/*
+Select your choice
+1.Insert
+2.Delete
+3.Display
+4.Exit
+1
+23
+23 entered into queue
+
+Select your choice
+1.Insert
+2.Delete
+3.Display
+4.Exit
+1
+34
+34 entered into queue
+
+Select your choice
+1.Insert
+2.Delete
+3.Display
+4.Exit
+2
+
+Deleted : 23
+
+Select your choice
+1.Insert
+2.Delete
+3.Display
+4.Exit
+3
+
+The Queue is
+34
+
+Select your choice
+1.Insert
+2.Delete
+3.Display
+4.Exit
+4
+*/
