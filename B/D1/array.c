@@ -1,3 +1,5 @@
+// WAP to implement the following array operations (insertion, deletion, display, exit) 
+
 #include <stdio.h>
 #include <stdlib.h>
 
